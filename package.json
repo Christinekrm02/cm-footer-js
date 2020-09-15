@@ -1,0 +1,23 @@
+{
+  "name": "cm-js-footer",
+  "version": "0.1.0",
+  "description": "This module generates a dynamic footer with an updated year and name for JS applications. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Christinekrm02/cm-footer-js.git"
+  },
+  "keywords": [
+    "footer",
+    "dynamic"
+  ],
+  "author": "christine_em <christine.ri.maynard@gmail.com> (https://www.npmjs.com/~christine_em)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Christinekrm02/cm-footer-js/issues"
+  },
+  "homepage": "https://github.com/Christinekrm02/cm-footer-js#readme"
+}
